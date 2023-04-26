@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson2WS</string>
+    <string name="textmsg">Welcome to Android!</string>
+    <string name="largetxt">Large Text</string>
+</resources>
